@@ -18,6 +18,8 @@ __pycache__/
 timing_logs/
 longvideo.mp4
 hours_long_with_speedup.mp4
+# longvideo_comparison.mp4
+tmp/*
 
 # C extensions
 *.so
